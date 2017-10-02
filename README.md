@@ -1,5 +1,5 @@
 # Numerical Analysis
-This repository stores all my codes for Numerical Analysis Course, and is basically composed of the following seven chapters:
+This repository stores all my codes for the Numerical Analysis Course, and is basically composed of the following seven chapters:
 
 - Chapter 1: Introduction
 - Chapter 2: Polynomial Interpolation and Approximation
