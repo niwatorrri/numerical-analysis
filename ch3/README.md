@@ -13,4 +13,3 @@ Numerical integration:
 - Romberg's method
 - Gaussian quadrature
 - Adaptive quadrature
-- Integral equation solver
