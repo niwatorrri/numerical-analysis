@@ -7,12 +7,12 @@ Polynomial interpolation:
 - Newton interpolation
 - Piecewise linear interpolation
 - Hermite interpolation
-- Cubic natural spline interpolation
+- Cubic spline interpolation
 - (B-spline interpolation)
 
 Polynomial approximation:
 - (Uniform approximation)
 - Least squares approximation
-- (Pade approximation)
+- (Padé approximation)
 
 Stuff in brackets are not implemented.
