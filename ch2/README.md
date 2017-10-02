@@ -7,7 +7,9 @@ This chapter basically contains:
 - Piecewise linear interpolation
 - Hermite interpolation
 - Cubic natural spline interpolation
-- B-spline interpolation
-- Uniform approximation
+- \* B-spline interpolation
+- \* Uniform approximation
 - Least squares approximation
-- Pade approximation
+- \* Pade approximation
+
+Stuff marked with star is not implemented.
