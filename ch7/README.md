@@ -5,5 +5,6 @@ This chapter basically contains:
 - (Random number generator: Linear-congruential)
 - Sampling methods: Transform, Box-Muller, Acceptance-rejection
 - Variance reduction techniques
-- Metropolis-Hastings algorithm
-- Quasi-random numbers
+- MCMC: Metropolis-Hastings algorithm
+- (Simulated annealing algorithm)
+- Quasi-random sequences
